@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<img align="right" src="https://media1.tenor.com/m/CFowpSoO7VsAAAAd/adad.gif" />
+<img align="right" src="https://media1.tenor.com/m/CFowpSoO7VsAAAAd/adad.gif" width="40%"/>
 
 <h2>⚡️ A Few Quick Facts</h2>
 
