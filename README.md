@@ -1,4 +1,4 @@
-<h1 align="center">Rudy Greyrat</h1>
+<h1 align="center">Rudyy Greyrat</h1>
 <h3 align="center">Founder • Co-Founder • High School Student • Python Developer</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <div align="center">
   <strong>
-    I'm Rudy Greyrat, a high school student from Vietnam, diving into the world of tech.
+    I'm Rudyy Greyrat, a high school student from Vietnam, diving into the world of tech.
   </strong>
   <br>
   <strong>
@@ -31,7 +31,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 🏰 Founder of <a href="https://ybo-technology.com">YBO Technology</a>, a tech company.
+- 🏰 Founder of <a href="https://ybo-technology.com">YBO Technology</a>, a tech team.
 - 🌱 My main language is Python.
 - 💞️ I'm always looking for opportunities to collaborate on innovative projects.
 - 🎧 I have a passion for technology and software development.
