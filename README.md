@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media1.tenor.com/m/CFowpSoO7VsAAAAd/adad.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 
@@ -41,7 +41,7 @@
 <br>
 
 <h2>✨ About Me</h2>
-<p>I'm Rudy Greyrat, a passionate developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Vietnam</b>. I love coding and building solutions that can make life better for people.</p>
+<p>I'm Rudy Greyrat, a passionate developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197473.png" width="13"/> <b>Vietnam</b>. I love coding and building solutions that can make life better for people.</p>
 
 <h3>Favorite Tools</h3>
 <p>
