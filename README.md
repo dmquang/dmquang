@@ -1,5 +1,5 @@
 <h1 align="center">Rudyy Greyrat</h1>
-<h3 align="center">Founder • Co-Founder • High School Student • Python Developer</h3>
+<h3 align="center">Founder • High School Student • Python Developer</h3>
 
 <p align="center">
   <a href="https://github.com/dmquang">
@@ -16,11 +16,11 @@
   </strong>
   <br>
   <strong>
-    I am the Founder of <a href="https://ybo-technology.com">YBO Technology</a> and Co-Founder of <a href="https://jarsoft.com">JARSoft</a>.
+    I am the Founder of <a href="https://jarsoft.com">JARSoft 💻</a>.
   </strong>
   <br>
   <strong>
-    My primary programming language is Python, with secondary expertise in JavaScript and C++.
+    My primary programming language is Python, with secondary expertise in JavaScript and C/C++.
   </strong>
 </div>
 
